@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  永久放弃评论功能
-date:   2017-07-24 00:00:00 +0800
-categories: document
-tag: 教程
+date:   2020-07-06 19:31:01 +0800
+categories: jekyll
+tag: jekyll
 ---
 
 * content
