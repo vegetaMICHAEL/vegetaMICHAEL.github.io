@@ -5,8 +5,8 @@
 	<title>{{ page.title | append: '  ' |append: site.name }}</title>
 	<!-- page.title | append: ' - ' |append: site.name -->
 
-	<link rel="shortcut icon" href="{{ '/styles/images/favicon.jpg' }}">
-	<link rel="icon" href="{{ '/styles/images/favicon.jpg'  }}">
+	<link rel="shortcut icon" href="{{ '/styles/images/favicon.jpg' | prepend: site.baseurl }}">
+	<link rel="icon" href="{{ '/styles/images/favicon.jpg' | prepend: site.baseurl  }}">
 	<!-- href="{{ '/styles/images/favicon.jpg' | prepend: site.baseurl }}" -->
 
 	<link rel="stylesheet" href="{{ '/styles/css/index.css' | prepend: site.baseurl }}">
