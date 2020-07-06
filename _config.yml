@@ -1,15 +1,16 @@
 # Site settings
-name: Less Or More
-email: luoyan35714@126.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
-baseurl: "/LessOrMore"
-description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+name: michael the Cycle
+email: 
+# luoyan35714@126.com
+author: Vegeta Michael
+url: https://vegetamichael.github.io/
+resume_site: https://vegetamichael.github.io/
+github: https://github.com/vegetaMICHAEL
+baseurl: ""
+description: Enjoy hardships of life
+meta_description: vegeta;Blog;Just do it
 motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+banner: Stay hungry, stay foolish
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -17,7 +18,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: luoyan35714
+github_username: vegetaMICHAEL
 
 # Build settings
 markdown: kramdown
