@@ -1,6 +1,6 @@
 # Site settings
 name: michael the Cycle
-email: luoyan35714@126.com
+email: mjbvegeta@yeah.net
 author: Vegeta Michael
 url: https://vegetamichael.github.io/
 resume_site: https://vegetamichael.github.io/
@@ -11,8 +11,8 @@ meta_description: vegeta;Blog;Just do it
 motto: Enjoy yourself
 banner: Stay hungry, stay foolish
 
-#permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
+#permalink: /:year/:month/:day/:title/
 paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
