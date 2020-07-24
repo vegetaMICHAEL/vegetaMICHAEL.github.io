@@ -2,14 +2,10 @@
 layout: post
 title:  计算机丛书整理
 date:   2020-07-24 16:31:01 +0800
-categories: jekyll
-tag: jekyll
+categories: all
+tag: books
 ---
 
-
-# 计算机电子书pdf整理及下载链接
-
-此处的列表不一定能够及时更新，最后更新日期为2015.1.25，原文在[这里](http://www.flygon.net/it-ebooks)。
 
 ***
 
